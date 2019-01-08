@@ -29,4 +29,4 @@
 * RGB colors range from rgb(0, 0, 0) for black to rgb(255, 255, 255) for white
 * You will want to generate 3 random numbers between 0 and 255 and set the RGB values using jQuery
  # Submission
-* Commit your changes and push to your GitHub profile.
+* Commit your changes and push to your GitHub profile.# jquery-Drills
